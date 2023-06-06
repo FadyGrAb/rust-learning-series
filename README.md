@@ -1,0 +1,12 @@
+# The Rust Learning Series
+I'm currently trying to learn Rust so I've created this series to document and summarize my learning journey. I'll loosely follow the content of _"The Rust Programming Language, 2nd Edition"_ by Steve Klabnik and Carol Nichols which I use as my main learning source for Rust (at least for now 😉)  
+This series is more for the "intermediate-level" programmer. It won't go throw programming fundamentals details here.  
+My main programming language is Python, so you will see me compare Rust to Python a lot.  
+I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-size articles each one will discuss a single Rust topic.  
+This repo will contain any code snippets that I may use in those articles.  
+  
+### Welcome on board...! 🤗
+
+## Articles in this series:
+- [01- Intro and Setup](https://dev.to/fadygrab/learning-rust-1-intro-and-setup-5a77)
+- [02- The basics](#)
