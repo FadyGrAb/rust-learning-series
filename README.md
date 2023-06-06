@@ -10,4 +10,4 @@ I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-
 
 ## Articles in this series:
 - [01- Intro and Setup](https://dev.to/fadygrab/learning-rust-1-intro-and-setup-5a77)
-- [02- The basics](#)
+- [02- The basics: Variables and Data Types](https://dev.to/fadygrab/learning-rust-02-the-basics-variables-and-data-types-429b)
