@@ -9,6 +9,6 @@ I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-
 ### Welcome on board...! 🤗
 
 ## Articles in this series:
-- [01- Intro and Setup](https://dev.to/fadygrab/learning-rust-1-intro-and-setup-5a77)
-- [02- The basics: Variables and Data Types](https://dev.to/fadygrab/learning-rust-02-the-basics-variables-and-data-types-429b)
-- [03- The basics: Functions and Flow Control (in progress)](#)
+1. [Intro and Setup](https://dev.to/fadygrab/learning-rust-1-intro-and-setup-5a77)
+2. [The basics: Variables and Data Types](https://dev.to/fadygrab/learning-rust-02-the-basics-variables-and-data-types-429b)
+3. [The basics: Functions and Flow Control (in progress)](#)
