@@ -12,3 +12,4 @@ I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-
 1. [Intro and Setup](https://dev.to/fadygrab/learning-rust-1-intro-and-setup-5a77)
 2. [The basics: Variables and Data Types](https://dev.to/fadygrab/learning-rust-02-the-basics-variables-and-data-types-429b)
 3. [The basics: Functions](https://dev.to/fadygrab/learning-rust-03-the-basics-functions-4d92)
+4. [The basics: Flow Control (in progress)](#)
