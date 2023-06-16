@@ -13,5 +13,5 @@ I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-
 2. [The basics: Variables and Data Types](https://dev.to/fadygrab/learning-rust-02-the-basics-variables-and-data-types-429b)
 3. [The basics: Functions](https://dev.to/fadygrab/learning-rust-03-the-basics-functions-4d92)
 4. [The basics: Flow Control](https://dev.to/fadygrab/learning-rust-04-the-basics-flow-control-3eog)
-5. [Your first Rust Application](https://dev.to/fadygrab/learning-rust-05-your-first-rust-game-guess-the-number-25dn)
+5. [Your first Rust game](https://dev.to/fadygrab/learning-rust-05-your-first-rust-game-guess-the-number-25dn)
 6. [Intermediate: Ownership (in progress)](#)
