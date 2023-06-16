@@ -21,10 +21,8 @@ fn main() {
             .read_line(&mut guess)
             .expect("Unable to parse input!");
 
-        let guess: &str = guess.trim(); // Shadowing. guess is now a string literal.
-
         // Check the for quit
-        if guess.to_lowercase() == "quit" {
+        if guess.trim().to_lowercase() == "quit" {
             break;
         }
 
