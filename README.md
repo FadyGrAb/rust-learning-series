@@ -15,4 +15,5 @@ I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-
 4. [The basics: Flow Control](https://dev.to/fadygrab/learning-rust-04-the-basics-flow-control-3eog)
 5. [Your first Rust game](https://dev.to/fadygrab/learning-rust-05-your-first-rust-game-guess-the-number-25dn)
 6. [Ownership - part 1](https://dev.to/fadygrab/learning-rust-06-ownership-part-1-28pb)
-7. [Ownership - part 2 (in progress)](#)
+7. [Ownership - part 2](https://dev.to/fadygrab/learning-rust-06-ownership-part-2-3e7n)
+8. [Ownership - part 3 (in progress)](#)
