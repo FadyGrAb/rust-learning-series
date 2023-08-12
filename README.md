@@ -17,4 +17,5 @@ I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-
 6. [Ownership: Intro](https://dev.to/fadygrab/learning-rust-06-ownership-part-1-28pb)
 7. [Ownership: Memory Dynamics](https://dev.to/fadygrab/learning-rust-06-ownership-part-2-3e7n)
 8. [Ownership: Functions and References](https://dev.to/fadygrab/learning-rust-08-ownership-functions-and-references-52gj)
-9. [Ownership: The Slice Type](#)
+9. [Ownership: The Slice Type](https://dev.to/fadygrab/learning-rust-09-ownership-the-slice-type-3gb0)
+10. [Structs (in progress)](#)
