@@ -19,5 +19,6 @@ I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-
 8. [Ownership: Functions and References](https://dev.to/fadygrab/learning-rust-08-ownership-functions-and-references-52gj)
 9. [Ownership: The Slice Type](https://dev.to/fadygrab/learning-rust-09-ownership-the-slice-type-3gb0)
 10. [Structs](https://dev.to/fadygrab/learning-rust-10-the-struct-1efd)
-11. [Debugging custom types/Structs]()
-12. [Enums and pattern matching (in progress)](#)
+11. [Debugging custom types/Structs](https://dev.to/fadygrab/learning-rust-11-debugging-custom-typesstructs-3dnp)
+12. [Enum basics](https://dev.to/fadygrab/learning-rust-12-basic-enum-2mn3)
+13. [Pattern matching](#)
