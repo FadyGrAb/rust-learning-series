@@ -27,7 +27,7 @@ impl Shape {
                 height: h,
             } => w * h,
             self::Shape::Circle(radius) => radius * radius * 3.14,
-            Self::Square(side) => side * side,
+            self::Shape::Square(side) => side * side,
         }
     }
 
