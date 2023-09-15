@@ -22,4 +22,5 @@ I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-
 11. [Debugging custom types/Structs](https://dev.to/fadygrab/learning-rust-11-debugging-custom-typesstructs-3dnp)
 12. [Enum basics](https://dev.to/fadygrab/learning-rust-12-basic-enum-2mn3)
 13. [Pattern matching basics](https://dev.to/fadygrab/learning-rust-13-pattern-matching-basics-40pj)
-14. [Option Enum (in progress)](#)
+14. [Option Enum: An Enum and Pattern matching use case](https://dev.to/fadygrab/learning-rust-14-option-enum-an-enum-and-pattern-matching-use-case-1dgf)
+15. [Packages, Crates and Modules (in progress)](#)
