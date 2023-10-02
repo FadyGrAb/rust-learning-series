@@ -23,5 +23,5 @@ I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-
 12. [Enum basics](https://dev.to/fadygrab/learning-rust-12-basic-enum-2mn3)
 13. [Pattern matching basics](https://dev.to/fadygrab/learning-rust-13-pattern-matching-basics-40pj)
 14. [Option Enum: An Enum and Pattern matching use case](https://dev.to/fadygrab/learning-rust-14-option-enum-an-enum-and-pattern-matching-use-case-1dgf)
-15. [How you can organize you Rust code with "Modules"](https://dev.to/fadygrab/learning-rust-15-how-you-can-organize-you-rust-code-with-modules-2c28)
+15. [How you can organize your Rust code with "Modules"](https://dev.to/fadygrab/learning-rust-15-how-you-can-organize-you-rust-code-with-modules-2c28)
 16. (in progress)
