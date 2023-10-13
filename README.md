@@ -25,4 +25,5 @@ I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-
 14. [Option Enum: An Enum and Pattern matching use case](https://dev.to/fadygrab/learning-rust-14-option-enum-an-enum-and-pattern-matching-use-case-1dgf)
 15. [How you can organize your Rust code with "Modules"](https://dev.to/fadygrab/learning-rust-15-how-you-can-organize-you-rust-code-with-modules-2c28)
 16. [Collections: Vectors](https://dev.to/fadygrab/learning-rust-16-collections-vectors-43nm)
-17. (in progress)
+17. [Collections: Strings - How complex can it be?!](https://dev.to/fadygrab/learning-rust-17-rust-collections-strings-how-complex-can-it-be-855)
+18. (In progress)
