@@ -26,4 +26,5 @@ I'll publish this series on [Dev.to](https://dev.to) as short, concise and bite-
 15. [How you can organize your Rust code with "Modules"](https://dev.to/fadygrab/learning-rust-15-how-you-can-organize-you-rust-code-with-modules-2c28)
 16. [Collections: Vectors](https://dev.to/fadygrab/learning-rust-16-collections-vectors-43nm)
 17. [Collections: Strings - How complex can it be?!](https://dev.to/fadygrab/learning-rust-17-rust-collections-strings-how-complex-can-it-be-855)
-18. (In progress)
+18. [Collections: HashMaps - accessing values with keys instead of indices](https://dev.to/fadygrab/learning-rust-18-rust-collections-hashmaps-accessing-values-with-keys-instead-of-indices-4kg2)
+19. (in progress)
